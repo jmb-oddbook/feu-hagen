@@ -1,0 +1,3 @@
+# exclude compiled and intermediate Pascal data
+*.exe
+*.o
