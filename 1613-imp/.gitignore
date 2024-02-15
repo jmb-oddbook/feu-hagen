@@ -1,3 +1,6 @@
-# exclude compiled and intermediate Pascal data
+# compiled and intermediate Pascal data
 *.exe
 *.o
+
+# Geany files
+*.geany
